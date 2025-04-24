@@ -1,53 +1,53 @@
 export const Users = [
   {
     id:1,
-    profilePicture: "assets/person/1.jpeg",
-    username: "Safak Kocaoglu",
+    profilePicture: "assets/person/1.jpg",
+    username: "Avishka",
   },
   {
     id:2,
-    profilePicture: "assets/person/2.jpeg",
-    username: "Janell Shrum",
+    profilePicture: "assets/person/2.jpg",
+    username: "Nadun",
   },
   {
     id:3,
-    profilePicture: "assets/person/3.jpeg",
-    username: "Alex Durden",
+    profilePicture: "assets/person/3.jpg",
+    username: "Kasuni",
   },
   {
     id:4,
-    profilePicture: "assets/person/4.jpeg",
-    username: "Dora Hawks",
+    profilePicture: "assets/person/4.jpg",
+    username: "Chamara",
   },
   {
     id:5,
-    profilePicture: "assets/person/5.jpeg",
-    username: "Thomas Holden",
+    profilePicture: "assets/person/5.jpg",
+    username: "Deshani",
   },
   {
     id:6,
-    profilePicture: "assets/person/6.jpeg",
-    username: "Shirley Beauchamp",
+    profilePicture: "assets/person/6.jpg",
+    username: "Menaka",
   },
   {
     id:7,
-    profilePicture: "assets/person/7.jpeg",
-    username: "Travis Bennett",
+    profilePicture: "assets/person/11.jpg",
+    username: "Thavindu",
   },
   {
     id:8,
-    profilePicture: "assets/person/8.jpeg",
-    username: "Kristen Thomas",
+    profilePicture: "assets/person/8.jpg",
+    username: "Evanji",
   },
   {
     id:9,
-    profilePicture: "assets/person/9.jpeg",
-    username: "Gary Duty",
+    profilePicture: "assets/person/9.jpg",
+    username: "Devinda",
   },
   {
     id:10,
-    profilePicture: "assets/person/10.jpeg",
-    username: "Safak Kocaoglu",
+    profilePicture: "assets/person/10.jpg",
+    username: "Shanaka",
   },
 ];
 
